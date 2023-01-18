@@ -26,7 +26,7 @@ Variable are neight targets nor features
 ### Compiling, Training, and Evaluating the Model
 Initial neural network model:
 
-
+![Original_Model](https://user-images.githubusercontent.com/110945895/213062510-15aaf3eb-0cf0-4b41-9a48-bf340f0f7eb0.png)
 
 Figure 1. The layers of the original neural network model. 
 Removed status
@@ -36,7 +36,7 @@ Removed status
 - Accuracy: 0.7268
 - Loss: 0.5527
 
-
+![Second_Model](https://user-images.githubusercontent.com/110945895/213062565-a60f43bd-3deb-465d-9c92-4779e290c4e6.png)
 
 Figure 2. The layers of the second neural network model. 
 Second neural network model:
@@ -46,7 +46,7 @@ Second neural network model:
 - Accuracy: 0.7271
 - Loss: 0.5508
 
-
+![Third_Model](https://user-images.githubusercontent.com/110945895/213062577-d4cf0360-d382-4151-9653-cd81a65541d3.png)
 
 Figure 3. The layers of the third neural network model.
 Third neural network model:
@@ -56,7 +56,7 @@ Third neural network model:
 - Accuracy: 0.7280
 - Loss: 0.5517
 
-
+![Screen Shot 2023-01-17 at 7 59 39 PM](https://user-images.githubusercontent.com/110945895/213062597-7bd39bd2-6fa5-4899-8218-90247d9c39a6.png)
 
 Figure 4. The layers of the forth neural network model.
 Fourth neural network model:
